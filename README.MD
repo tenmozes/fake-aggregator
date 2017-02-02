@@ -6,7 +6,7 @@ Webserver for aggragation ints from different sources.
 	go get github.com/tenmozes/fake-aggregator
 
 ## Run
-	./fake-aggregator [params]
+	fake-aggregator [params]
 	Params:
  	-deadline int
  		max response time from aggregator handles in ms (default 500)
